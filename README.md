@@ -2,7 +2,7 @@
 # The Nifty E-Commerce Store Final Project
 _Special thanks to Tal Wolman for the original version of this project._
 
-**Note: This is an adapted outline inspired by CSE 154 Summer Final Project. Edits made to it so the core parts of a full-stack project are here. You can see the original here**
+**Note: This is an adapted outline inspired by CSE 154 Summer Final Project. Edits made to it so the core parts of a full-stack project are here. You can see the original [here](https://courses.cs.washington.edu/courses/cse154/19su/homework/index.html)**
 
 ## Overview
 This Final Project will cumulate what you've been learning in the course with an opportunity to design, develop, and implement a full-stack website. You will be responsible for fully implementing both the front and back-end of an E-Commerce store of your choosing. Pick your theme, pick your features from the module component list, and have fun with it!
