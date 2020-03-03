@@ -7,10 +7,6 @@ _Special thanks to Tal Wolman for the original version of this project._
 ## Overview
 This Final Project will cumulate what you've been learning in the course with an opportunity to design, develop, and implement a full-stack website. You will be responsible for fully implementing both the front and back-end of an E-Commerce store of your choosing. Pick your theme, pick your features from the module component list, and have fun with it!
 
-Please understand that this assignment is not a Creative Project. For full credit, this project must be clearly independent of your previous Creative Project (and HW) work. Ask the staff if you are unsure about similarity between previous assignments and your Final Project implementation.
-
-Also, given the nature of this being a cumulative Final Project demonstrating the knowledge you have gained in this class, **you may not use online resources in this assignment**. This means, but is not limited to, using any online tutorials, code, videos or projects as a reference for yours. **Citing these resources does not make it acceptable to use them**. If you feel strongly that you would like to use a certain online resource you must get explicit permission from the instructor as well as explicitly cite the source. Similarly to CP code, any code based on or taken from an online resource will _not_ count towards the requirements for this assignment and may be subject to deductions without explicit permission.
-
 Whatever you create for this project is yours to share as you choose meaning you can publish it and/or show it off to others. That being said, we strongly encourage you to have fun and go (reasonably) above and beyond with this assignment. It is your chance to not only show off the valuable skills you've learned, but also develop a strong portfolio piece. Happy coding!
 
 ## Starter Files and Deliverables
